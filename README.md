@@ -1,6 +1,10 @@
 # HangoutCreator
 A mobile application designed to allow users to create, find and join hangouts posted by other users. It is created using React Native for the UI, Express as a middleware API and Java as a backend server with data persisted from a MySQL database. It allows users to join with an id, browse active hangouts, create new events and join activities hosted by other users.
 
+Information on how to run the application can be found in the README.txt file.
+
+More information about the design of the project can be found in Instruction Manual.pdf.
+
 # Functionalities:
 
 ## **Login Screen**   
